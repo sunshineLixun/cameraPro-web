@@ -1,0 +1,35 @@
+{
+  "ads": false,
+  "free": true,
+  "name": "Viewly",
+  "theme": "",
+  "contact": "lixunemial@gmail.com",
+  "stores": {
+    "apple": "https://apps.apple.com/cn/app/viewly/id6705124001?platform=iphone"
+  },
+  "description": [
+    "一款强大的 AI 图片识别应用，识别图片中的内容、AI作诗、拍照翻译成多国语言。持续不断的更新更多功能..."
+  ],
+  "features": [
+    {
+      "title": "AI 图片识别",
+      "body": "识别图片中的内容、AI 作诗、翻译成多国语言"
+    },
+    {
+      "title": "AI 作诗",
+      "body": "根据图片内容，AI 作诗"
+    },
+    {
+      "title": "翻译",
+      "body": "翻译成多国语言"
+    },
+    {
+      "title": "更多内容",
+      "body": "持续不断的更新更多功能..."
+    }
+  ],
+  "social": {
+    "X": "https://x.com/ios_1261142602",
+    "微博": "https://weibo.com/u/5292539555"
+  }
+}
